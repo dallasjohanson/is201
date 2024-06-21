@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(250, 170, 170);
+}
+
+.header {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+.headerdata {
+    font-size: 30px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    list-style-position: inside;
+}
+
+.datatype {
+    font-size: 30px;
+    color: maroon;
+    font-family: 'Courier New', Courier, monospace;
+    list-style-position: inside;
+}
+
+.title {
+    font-size: 100px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.bigquestion {
+    font-size: 40px;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.smallquestion {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.centeralign {
+    text-align: center;
+}
